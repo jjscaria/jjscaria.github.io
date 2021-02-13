@@ -84,7 +84,8 @@ h1::after {
 }
 hr.divider {
   position: absolute;
-  left: 0;
+  margin-right: auto;
+  margin-left: auto;
   border-top: 1px solid white;
   width: 50%;
 }
